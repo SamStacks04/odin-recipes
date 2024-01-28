@@ -4,7 +4,7 @@
 
 See what I did there?
 
-Anyways, I plan on implementing/<strong>strengthing</strong>many learnt ideas regarding:
+Anyways, I plan on implementing/<strong>strengthing</strong> many learnt ideas regarding:
   <ol>
     <li>Git workflow</li>
     <li>Basic HTML mastery</li>
